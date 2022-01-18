@@ -29,7 +29,7 @@
         }
 
         /// <summary>
-        /// Find the maximum sum of the path through the pyrimid.
+        /// How many measurements are larger than the previous measurement?
         /// </summary>
         /// <returns></returns>
         public int Problem2(int[] sonarData)
